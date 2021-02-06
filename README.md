@@ -1,14 +1,20 @@
 
-# CPNT 260 - Assignment 2: Card Content Block
+# CPNT 260 Assignment 3: Image Gallery & Social Icons
 Repository Owner & Maintainer: Dustin Shulz
 
 https://github.com/cowtowndusty/cpnt260-a2/
 
 https://cowtowndusty.github.io/cpnt260-a2/
 
-You will find the cards in the "Our Team" section.
+This is the website for my web consultancy, the goal of this site is to showcase my proficiencies, portfolio and have a future client(s) reach out for help.
 
-I received your feedback from my last assignment today regarding proper indentation and also that my header should be an unordered list rather than a 'div'. I ran out of time getting my cards working properly on mobile but will fix those aspects of the site next.
+You will find the image gallery and social media icons in the "gallery" link via the nav bar. There are also social media icons located via the "our team" page.
+
+The client is anyone looking to enhance their current or future web presence.
+
+The goal of the website is to have customers contact my company so we can help them achieve their web objectives.
+
+I've implemented the necessary elements into this site but it has evolved/devolved in certain areas and gotten away from the theme. It may be time to put it out to pasture and start fresh.
 
 ## Attributions:
 David Marby & Nijiko Yonskai
@@ -30,15 +36,15 @@ Developerdrive Staff
 - https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document
 
 Bennett Feely
-https://bennettfeely.com/clippy/
-https://github.com/bennettfeely/Clippy
+- https://bennettfeely.com/clippy/
+- https://github.com/bennettfeely/Clippy
 
 Julio Codes
-https://youtu.be/GWE9ay9H7uU
+- https://youtu.be/GWE9ay9H7uU
 
 Pexels
-https://www.pexels.com/
-https://www.pexels.com/license/
+- https://www.pexels.com/
+- https://www.pexels.com/license/
 
 
 
