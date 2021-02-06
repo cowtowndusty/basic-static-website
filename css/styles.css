@@ -408,7 +408,15 @@ i:hover {
   color: #dd4b39;
 }
 
-.fa-facebook-square:hover, .fa-twitter-square:hover, .fa-instagram:hover, .fa-google-plus-square:hover {
+.fa-linkedin-in {
+  color: #0e76a8;
+}
+
+.fa-github {
+  color: #4078c0;
+}
+
+.fa-facebook-square:hover, .fa-twitter-square:hover, .fa-instagram:hover, .fa-google-plus-square:hover, .fa-linkedin-in:hover, .fa-github:hover {
 color: #48C5A9;
 }
 
@@ -448,6 +456,29 @@ color: #48C5A9;
     transform: scale(1.025);
   }
 
+  /* Photo gallery styling */
+
+  .fab {
+margin: 1rem;
+  }
+
+  .social-media-gallery-list {
+    width: auto;
+    border-radius: 50px;
+    margin: .5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    background-color: #ebeef8;
+    flex-wrap: wrap;
+  }
+
+  .social-media-gallery-container {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    border: 0;
+  }
+
   figure {
     display: flex;
     flex-flow: column;
@@ -457,6 +488,7 @@ color: #48C5A9;
 figcaption {
     background-color: #00000036;
     text-align: center;
+    min-width: 15rem;
 }
 
 
