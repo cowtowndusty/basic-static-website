@@ -470,6 +470,8 @@ margin: 1rem;
     padding-right: .5rem;
     background-color: #ebeef8;
     flex-wrap: wrap;
+    border-style: dotted;
+    border-color: #48C5A9;
   }
 
   .social-media-gallery-container {
