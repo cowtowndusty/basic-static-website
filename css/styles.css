@@ -448,6 +448,18 @@ color: #48C5A9;
     transform: scale(1.025);
   }
 
+  figure {
+    display: flex;
+    flex-flow: column;
+    margin: auto;
+}
+
+figcaption {
+    background-color: #00000036;
+    text-align: center;
+}
+
+
 /* Media Queries */
 
 /* @media (max-width: 56.2rem) {
