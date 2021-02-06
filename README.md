@@ -2,9 +2,9 @@
 # CPNT 260 Assignment 3: Image Gallery & Social Icons
 Repository Owner & Maintainer: Dustin Shulz
 
-https://github.com/cowtowndusty/cpnt260-a2/
+https://github.com/cowtowndusty/cpnt260-a3/
 
-https://cowtowndusty.github.io/cpnt260-a2/
+https://cowtowndusty.github.io/cpnt260-a3/photo_gallery.html
 
 This is the website for my web consultancy, the goal of this site is to showcase my proficiencies, portfolio and have a future client(s) reach out for help.
 
